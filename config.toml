@@ -1,0 +1,16 @@
+baseURL = "/"
+languageCode = "pt-BR"
+title = "Live de Terça"
+theme = "github-style"
+copyright = "Kopimi 2020. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+  author = "Iuri Guilherme"
+  description = "Live de Terça no canal do Matehackers"
+  github = "iuriguilherme"
+  twitter = "aindatenhoconta"
+  mastodon = "https://mastodon.social/@iuri"
+  email = "aindatenhoconta@gmail.com"
+  avatar = "https://iuri.neocities.org/iuri.png"
+  url = "https://iuri.neocities.org"
+  keywords = "blog, matehackers, live, youtube, hugo, tor, ipfs, python, python-telegram-bot, ptb, geany, telegram, flask"

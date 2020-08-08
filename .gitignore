@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*~
+*.log
+public/
+public.denise/
+themes/*
